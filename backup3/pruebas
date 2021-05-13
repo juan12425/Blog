@@ -1,0 +1,149 @@
+    <body>
+
+
+        <h2 id="Ponencias">Ponencias<h2>
+        
+        <h2 class="h2edition" style="color: black; margin-left: 2%;">Título de la Ponencia</h2>
+        <img src="i/40.png" alt="Pepito" class="imgfloat">
+        
+        
+        <p class="p4">
+            <b>Autor</b>:Pepito Pérez<br>
+            <b>Fecha</b>: 15 de noviembre 2500<br>
+            <b>Datos sobre la ponencia (breve resumen)</b>: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Nam vitae justo quam. Sed iaculis vulputate vulputate. Phasellus vitae tellus justo. Donec vitae posuere velit. 
+            Aenean at felis lectus. Phasellus at fringilla nulla. Nunc nec magna lorem. Mauris ut laoreet metus, ornare condimentum 
+            purus.</p>
+            
+        <div style="margin-left: 30%;">
+            <button type="button" onclick="myFunction('pdf1', 'button2', 'button1')" id="button1" class="buttonpdf">Ver PDF</button>
+            <button type="button" onclick="myFunction2('pdf1', 'button1', 'button2')" style="display: none;" id="button2" class="buttonpdf">Ocultar PDF</button>
+            
+            <p id="demo1"></p>
+            <p id="demo2"></p>
+            <a href="#Foro" class="lforo">Discutir en el Ágora</a>
+        </div>
+        <iframe src="vg.pdf" width="100%" height="800vmin" style="display: none;" id="pdf1"></iframe> 
+        
+        <h2 class="h2edition" style="color: black; margin-left: 2%;">Título de la Ponencia</h2>
+        <img src="i/afrodita.png" alt="Pepito" class="imgfloat">
+        <p class="p4">
+            <b>Autor</b>:Afrodita<br>
+            <b>Fecha</b>: 15 de noviembre 2500 AC<br>
+            <b>Datos sobre la ponencia (breve resumen)</b>: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Nam vitae justo quam. Sed iaculis vulputate vulputate. Phasellus vitae tellus justo. Donec vitae posuere velit. 
+            Aenean at felis lectus. Phasellus at fringilla nulla. Nunc nec magna lorem. Mauris ut laoreet metus, ornare condimentum 
+            purus.</p>
+       
+        <div style="margin-left: 30%;">
+            <button type="button" onclick="myFunction('pdf2', 'button4', 'button3')" id="button3" class="buttonpdf">Ver PDF</button>
+            <button type="button" onclick="myFunction2('pdf2', 'button3', 'button4')" style="display: none;" id="button4" class="buttonpdf">Ocultar PDF</button>
+            
+            <p id="demo1"></p>
+            <p id="demo2"></p>
+            <a href="#Foro" class="lforo">Discutir en el Ágora</a>
+        </div>
+        <iframe src="vg.pdf" width="100%" height="800vmin" style="display: none;" id="pdf2"></iframe> 
+            
+        
+        <h2 class="h2edition" style="color: black; margin-left: 2%;">Título de la Ponencia</h2>
+        <img src="i/homero2.png" alt="Pepito" class="imgfloat">
+        <p class="p4">
+            <b>Autor</b>:Homero<br>
+            <b>Fecha</b>: 15 de noviembre 2500<br>
+            <b>Datos sobre la ponencia (breve resumen)</b>: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Nam vitae justo quam. Sed iaculis vulputate vulputate. Phasellus vitae tellus justo. Donec vitae posuere velit. 
+            Aenean at felis lectus. Phasellus at fringilla nulla. Nunc nec magna lorem. Mauris ut laoreet metus, ornare condimentum 
+            purus.</p>
+      
+        <div style="margin-left: 30%;">
+            <button type="button" onclick="myFunction('pdf3', 'button6', 'button5')" id="button5" class="buttonpdf">Ver PDF</button>
+            <button type="button" onclick="myFunction2('pdf3', 'button5', 'button6')" style="display: none;" id="button6" class="buttonpdf">Ocultar PDF</button>
+            
+            <p id="demo1"></p>
+            <p id="demo2"></p>
+            <a href="#Foro" class="lforo">Discutir en el Ágora</a>
+        </div>
+        <iframe src="vg.pdf" width="100%" height="800vmin" style="display: none;" id="pdf3"></iframe> 
+
+    
+
+        <h2 id="Ensayos">Ensayos<h2>
+        
+        <h2 class="h2edition" style="color: black; margin-left: 2%;">Título del Ensayo</h2>
+        <img src="i/40.png" alt="Pepito" class="imgfloat">
+        
+        
+        <p class="p4">
+            <b>Autor</b>:Pepito Pérez<br>
+            <b>Fecha</b>: 15 de noviembre 2500<br>
+            <b>Datos sobre la ponencia (breve resumen)</b>: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Nam vitae justo quam. Sed iaculis vulputate vulputate. Phasellus vitae tellus justo. Donec vitae posuere velit. 
+            Aenean at felis lectus. Phasellus at fringilla nulla. Nunc nec magna lorem. Mauris ut laoreet metus, ornare condimentum 
+            purus.</p>
+            
+        <div style="margin-left: 30%;">
+            <button type="button" onclick="myFunction('pdf1', 'button2', 'button1')" id="button1" class="buttonpdf">Ver PDF</button>
+            <button type="button" onclick="myFunction2('pdf1', 'button1', 'button2')" style="display: none;" id="button2" class="buttonpdf">Ocultar PDF</button>
+            
+            <p id="demo1"></p>
+            <p id="demo2"></p>
+            <a href="#Foro" class="lforo">Discutir en el Ágora</a>
+        </div>
+        <iframe src="vg.pdf" width="100%" height="800vmin" style="display: none;" id="pdf1"></iframe> 
+        
+        <h2 class="h2edition" style="color: black; margin-left: 2%;">Título del Ensayo</h2>
+        <img src="i/afrodita.png" alt="Pepito" class="imgfloat">
+        <p class="p4">
+            <b>Autor</b>:Afrodita<br>
+            <b>Fecha</b>: 15 de noviembre 2500 AC<br>
+            <b>Datos sobre la ponencia (breve resumen)</b>: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Nam vitae justo quam. Sed iaculis vulputate vulputate. Phasellus vitae tellus justo. Donec vitae posuere velit. 
+            Aenean at felis lectus. Phasellus at fringilla nulla. Nunc nec magna lorem. Mauris ut laoreet metus, ornare condimentum 
+            purus.</p>
+       
+        <div style="margin-left: 30%;">
+            <button type="button" onclick="myFunction('pdf2', 'button4', 'button3')" id="button3" class="buttonpdf">Ver PDF</button>
+            <button type="button" onclick="myFunction2('pdf2', 'button3', 'button4')" style="display: none;" id="button4" class="buttonpdf">Ocultar PDF</button>
+            
+            <p id="demo1"></p>
+            <p id="demo2"></p>
+            <a href="#Foro" class="lforo">Discutir en el Ágora</a>
+        </div>
+        <iframe src="vg.pdf" width="100%" height="800vmin" style="display: none;" id="pdf2"></iframe> 
+            
+        
+        <h2 class="h2edition" style="color: black; margin-left: 2%;">Título del ensayo</h2>
+        <img src="i/homero2.png" alt="Pepito" class="imgfloat">
+        <p class="p4">
+            <b>Autor</b>:Homero<br>
+            <b>Fecha</b>: 15 de noviembre 2500<br>
+            <b>Datos sobre la ponencia (breve resumen)</b>: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+            Nam vitae justo quam. Sed iaculis vulputate vulputate. Phasellus vitae tellus justo. Donec vitae posuere velit. 
+            Aenean at felis lectus. Phasellus at fringilla nulla. Nunc nec magna lorem. Mauris ut laoreet metus, ornare condimentum 
+            purus.</p>
+      
+        <div style="margin-left: 30%;">
+            <button type="button" onclick="myFunction('pdf3', 'button6', 'button5')" id="button5" class="buttonpdf">Ver PDF</button>
+            <button type="button" onclick="myFunction2('pdf3', 'button5', 'button6')" style="display: none;" id="button6" class="buttonpdf">Ocultar PDF</button>
+            
+            <p id="demo1"></p>
+            <p id="demo2"></p>
+            <a href="#Foro" class="lforo">Discutir en el Ágora</a>
+        </div>
+        <iframe src="vg.pdf" width="100%" height="800vmin" style="display: none;" id="pdf3"></iframe> 
+
+        <div class="divc">
+            <div style="margin-top: 10%; padding-top: 2%">
+            <h2 class="h40">Contacto</h2>
+            <h2 class="h40">Sobre los Creadores</h2> 
+            <h2 class="h40">Otros Créditos</h2> 
+            </div>
+            <h2 class="h70">QuererVer ©2020</h2>
+    
+        </div>
+        
+                
+
+
+
