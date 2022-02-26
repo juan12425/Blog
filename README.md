@@ -8,5 +8,9 @@
 4. Video upload.
 5. Creation of users through PHP validation system.
 
+## About Use
+
+This blog counts with user validation through PHPMailer.
+
 **Important**
 Use: https://github.com/PHPMailer/PHPMailer. 
