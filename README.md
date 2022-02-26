@@ -1,4 +1,4 @@
-# Student's philosophy Blog
+# Student's Philosophy Blog
 
 ## Features
 
