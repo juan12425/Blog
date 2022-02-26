@@ -6,7 +6,7 @@
 2. Texts and essays upload system.
 3. Blog newsletter page.
 4. Video upload.
-5. Creation of users.
+5. Creation of users through PHP validation system.
 
 **Important**
 Use: https://github.com/PHPMailer/PHPMailer. 
