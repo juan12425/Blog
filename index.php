@@ -31,18 +31,17 @@ session_start()
     <img class="imgi w3-animate-opacity" src="i/dibujo14.jpg" alt="¿Zeus?"> 
     <p class="p2 w3-animate-opacity">Introducción del Blog</p>
     <div class="div1">
-    <p class="p1 w3-animate-opacity">La inesperada pandemia de este año terminó por confirmar una realidad que, aunque de forma velada para algunos, ya había surgido tiempo atrás: el vínculo, cada vez más inextricable, entre virtualidad y educación. 
-        Tal vez por carecer de la distancia histórica que permite comprender de forma justa los acontecimientos, aun hoy desconocemos muchas de las implicaciones de esa relación. 
-        Pero ni  el más reaccionario se atrevería a dudar de ella. Este fenómeno que siguiendo a Sartori podemos relacionar con la aparición del Homo Videns, 
-        basta para justificar la existencia de un nuevo blog. Pues nunca antes en la historia fue tan importante acompañar los procesos formativos de los 
-        estudiantes con diferentes recursos audiovisuales.<br><br>
-        
-        Querer Ver es un blog del Liceo Juan Ramón Jiménez, cuyo principal objetivo es servir de herramienta 
-        pedagógica en la enseñanza de la filosofía.  Pretende constituirse en un espacio en el que los estudiantes 
-        del Liceo crean conocimiento de forma distendida, en un área del saber tradicionalmente vinculada con 
-        el formalismo de los congresos y de las revistas académicas. Esperamos finalmente que esto permita que 
-        los estudiantes más pequeños también se acerquen y conozcan un poco más de esta apasionante disciplina a 
-        través de ensayos, podcast, reflexiones cortas o entrevistas. 
+        <p class="p1 w3-animate-opacity">Nunc suscipit nunc in massa fermentum condimentum. Maecenas fringilla 
+            sollicitudin purus, non lobortis neque pellentesque ut. Aenean tincidunt quam et auctor vehicula. 
+            Curabitur gravida lacus et neque posuere, non suscipit nibh sollicitudin. Phasellus mollis, libero ac semper 
+            tincidunt, tortor erat hendrerit nulla, vitae venenatis magna mi ut ex. Quisque feugiat lacus quis convallis tincidunt.
+            Sed blandit libero lacus, in placerat turpis rutrum ut. Morbi condimentum dolor magna, ac sollicitudin felis rutrum ut.<br><br>
+            
+            Nunc suscipit nunc in massa fermentum condimentum. Maecenas fringilla 
+            sollicitudin purus, non lobortis neque pellentesque ut. Aenean tincidunt quam et auctor vehicula. 
+            Curabitur gravida lacus et neque posuere, non suscipit nibh sollicitudin. Phasellus mollis, libero ac semper 
+            tincidunt, tortor erat hendrerit nulla, vitae venenatis magna mi ut ex. Quisque feugiat lacus quis convallis tincidunt.
+            Sed blandit libero lacus, in placerat turpis rutrum ut. Morbi condimentum dolor magna, ac sollicitudin felis rutrum ut
         </p>
     </div>
    
