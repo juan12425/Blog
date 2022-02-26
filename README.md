@@ -1,6 +1,6 @@
 # Student's philosophy Blog
 
-##Features
+## Features
 
 1. A Forum where the students can debate and upload their thoughts.
 2. Texts and essays upload system.
